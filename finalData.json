@@ -1,0 +1,1517 @@
+[
+  {
+    "label": "Hogar",
+    "href": "https://www.likemarket.es/category/hogar",
+    "children": [
+      [
+        [
+          [
+            {
+              "label": "Bricolaje",
+              "href": "https://www.likemarket.es/category/bricolaje",
+              "children": [
+                {
+                  "label": "Accesorios Bricolaje",
+                  "href": "https://www.likemarket.es/category/accesorios-bricolaje",
+                  "children": [
+                    {
+                      "label": "Escuadras",
+                      "href": "https://www.likemarket.es/category/escuadras"
+                    },
+                    {
+                      "label": "Imanes",
+                      "href": "https://www.likemarket.es/category/imanes"
+                    },
+                    {
+                      "label": "Persianas",
+                      "href": "https://www.likemarket.es/category/persianas"
+                    },
+                    {
+                      "label": "Soportes",
+                      "href": "https://www.likemarket.es/category/soportes"
+                    },
+                    {
+                      "label": "Sujeción",
+                      "href": "https://www.likemarket.es/category/sujecion"
+                    },
+                    {
+                      "label": "Topes",
+                      "href": "https://www.likemarket.es/category/topes"
+                    },
+                    {
+                      "label": "Tornillería",
+                      "href": "https://www.likemarket.es/category/tornilleria"
+                    }
+                  ]
+                },
+                {
+                  "label": "Consumibles de Ferretería",
+                  "href": "https://www.likemarket.es/category/consumibles-ferreteria",
+                  "children": [
+                    {
+                      "label": "Aceites y Lubricantes",
+                      "href": "https://www.likemarket.es/category/aceites-y-lubricantes-1"
+                    },
+                    {
+                      "label": "Cintas Adhesivas",
+                      "href": "https://www.likemarket.es/category/cintas"
+                    },
+                    {
+                      "label": "Pegado y Sellado",
+                      "href": "https://www.likemarket.es/category/pegado-y-sellado"
+                    }
+                  ]
+                },
+                {
+                  "label": "Fontanería",
+                  "href": "https://www.likemarket.es/category/fontaneria",
+                  "children": [
+                    {
+                      "label": "Accesorios baño",
+                      "href": "https://www.likemarket.es/category/accesorios-bano"
+                    },
+                    {
+                      "label": "Accesorios para Fontanería",
+                      "href": "https://www.likemarket.es/category/accesorios-para-fontaneria"
+                    },
+                    {
+                      "label": "Gas",
+                      "href": "https://www.likemarket.es/category/gas"
+                    },
+                    {
+                      "label": "Griferia",
+                      "href": "https://www.likemarket.es/category/griferia"
+                    }
+                  ]
+                },
+                {
+                  "label": "Herrajes",
+                  "href": "https://www.likemarket.es/category/herrajes",
+                  "children": [
+                    {
+                      "label": "Buzones y cajas",
+                      "href": "https://www.likemarket.es/category/buzones-y-cajas"
+                    },
+                    {
+                      "label": "Candados",
+                      "href": "https://www.likemarket.es/category/candados"
+                    },
+                    {
+                      "label": "Puertas",
+                      "href": "https://www.likemarket.es/category/puertas"
+                    }
+                  ]
+                },
+                {
+                  "label": "Herramientas eléctricas",
+                  "href": "https://www.likemarket.es/category/herramientas-electricas",
+                  "children": [
+                    {
+                      "label": "Accesorios y Recambios",
+                      "href": "https://www.likemarket.es/category/accesorios-y-recambios"
+                    },
+                    {
+                      "label": "Coche",
+                      "href": "https://www.likemarket.es/category/coche"
+                    },
+                    {
+                      "label": "Corte Eléctrico",
+                      "href": "https://www.likemarket.es/category/corte-electrico"
+                    },
+                    {
+                      "label": "Herramientas batería",
+                      "href": "https://www.likemarket.es/category/herramientas-bateria"
+                    },
+                    {
+                      "label": "Lijado",
+                      "href": "https://www.likemarket.es/category/lijado"
+                    },
+                    {
+                      "label": "Perforación",
+                      "href": "https://www.likemarket.es/category/perforacion-electrica"
+                    },
+                    {
+                      "label": "Termoencoladoras",
+                      "href": "https://www.likemarket.es/category/termoencoladoras"
+                    },
+                    {
+                      "label": "Varios Herramientas eléctricas",
+                      "href": "https://www.likemarket.es/category/varios-herramientas-electricas"
+                    }
+                  ]
+                },
+                {
+                  "label": "Herramientas manuales",
+                  "href": "https://www.likemarket.es/category/herramientas-manuales",
+                  "children": [
+                    {
+                      "label": "Abrasión",
+                      "href": "https://www.likemarket.es/category/abrasion"
+                    },
+                    {
+                      "label": "Alicates",
+                      "href": "https://www.likemarket.es/category/alicates"
+                    },
+                    {
+                      "label": "Corte Manual",
+                      "href": "https://www.likemarket.es/category/corte-manual"
+                    },
+                    {
+                      "label": "Destornilladores",
+                      "href": "https://www.likemarket.es/category/destornilladores"
+                    },
+                    {
+                      "label": "Inflado",
+                      "href": "https://www.likemarket.es/category/inflado"
+                    },
+                    {
+                      "label": "Llaves",
+                      "href": "https://www.likemarket.es/category/llaves"
+                    },
+                    {
+                      "label": "Macetas",
+                      "href": "https://www.likemarket.es/category/macetas"
+                    },
+                    {
+                      "label": "Martillos",
+                      "href": "https://www.likemarket.es/category/martillos"
+                    },
+                    {
+                      "label": "Medición",
+                      "href": "https://www.likemarket.es/category/medicion"
+                    },
+                    {
+                      "label": "Perforación",
+                      "href": "https://www.likemarket.es/category/perforacion-manual"
+                    },
+                    {
+                      "label": "Pistolas",
+                      "href": "https://www.likemarket.es/category/pistolas"
+                    },
+                    {
+                      "label": "Sujeción Manual",
+                      "href": "https://www.likemarket.es/category/sujecion-1"
+                    },
+                    {
+                      "label": "Tenazas",
+                      "href": "https://www.likemarket.es/category/tenazas"
+                    },
+                    {
+                      "label": "Tijeras",
+                      "href": "https://www.likemarket.es/category/tijeras"
+                    }
+                  ]
+                },
+                {
+                  "label": "Iluminación",
+                  "href": "https://www.likemarket.es/category/iluminacion-1",
+                  "children": [
+                    {
+                      "label": "Accesorios",
+                      "href": "https://www.likemarket.es/category/accesorios-de-iluminacion"
+                    },
+                    {
+                      "label": "Apliques LED",
+                      "href": "https://www.likemarket.es/category/apliques-led"
+                    },
+                    {
+                      "label": "Aros LED",
+                      "href": "https://www.likemarket.es/category/aros-led"
+                    },
+                    {
+                      "label": "Bajo consumo",
+                      "href": "https://www.likemarket.es/category/bajo-consumo"
+                    },
+                    {
+                      "label": "Bombillas",
+                      "href": "https://www.likemarket.es/category/bombillas"
+                    },
+                    {
+                      "label": "Focos empotrables LED",
+                      "href": "https://www.likemarket.es/category/downlights-led"
+                    },
+                    {
+                      "label": "Fluorescentes LED",
+                      "href": "https://www.likemarket.es/category/fluorescentes-led"
+                    },
+                    {
+                      "label": "Iluminación Decorativa",
+                      "href": "https://www.likemarket.es/category/iluminacion-decorativa"
+                    },
+                    {
+                      "label": "Lámparas",
+                      "href": "https://www.likemarket.es/category/lamparas-led"
+                    },
+                    {
+                      "label": "Linternas",
+                      "href": "https://www.likemarket.es/category/linternas"
+                    },
+                    {
+                      "label": "Paneles LED",
+                      "href": "https://www.likemarket.es/category/paneles-led"
+                    },
+                    {
+                      "label": "Pantallas LED",
+                      "href": "https://www.likemarket.es/category/pantallas-led"
+                    },
+                    {
+                      "label": "Proyectores LED",
+                      "href": "https://www.likemarket.es/category/proyectores-led"
+                    },
+                    {
+                      "label": "Regletas LED",
+                      "href": "https://www.likemarket.es/category/regletas-led"
+                    },
+                    {
+                      "label": "Tiras LED",
+                      "href": "https://www.likemarket.es/category/tiras-led"
+                    }
+                  ]
+                },
+                {
+                  "label": "Material eléctrico",
+                  "href": "https://www.likemarket.es/category/material-electrico",
+                  "children": [
+                    {
+                      "label": "Accesorios Televisión",
+                      "href": "https://www.likemarket.es/category/television"
+                    },
+                    {
+                      "label": "Adaptadores",
+                      "href": "https://www.likemarket.es/category/adaptadores"
+                    },
+                    {
+                      "label": "Más amplio",
+                      "href": "https://www.likemarket.es/category/alargos"
+                    },
+                    {
+                      "label": "Bases",
+                      "href": "https://www.likemarket.es/category/bases"
+                    },
+                    {
+                      "label": "Cables e Hilos eléctricos",
+                      "href": "https://www.likemarket.es/category/cables-e-hilos-electricos"
+                    },
+                    {
+                      "label": "Clavijas y Bases",
+                      "href": "https://www.likemarket.es/category/clavijas-y-bases"
+                    },
+                    {
+                      "label": "Domótica y Seguridad",
+                      "href": "https://www.likemarket.es/category/domotica-y-seguridad"
+                    },
+                    {
+                      "label": "Mecanismos",
+                      "href": "https://www.likemarket.es/category/mecanismos"
+                    },
+                    {
+                      "label": "Portalámparas",
+                      "href": "https://www.likemarket.es/category/portalamparas"
+                    }
+                  ]
+                },
+                {
+                  "label": "Pilas",
+                  "href": "https://www.likemarket.es/category/pilas"
+                },
+                {
+                  "label": "Pintura y Accesorios",
+                  "href": "https://www.likemarket.es/category/pintura-accesorios"
+                },
+                {
+                  "label": "Protección y Seguridad",
+                  "href": "https://www.likemarket.es/category/proteccion-y-seguridad",
+                  "children": [
+                    {
+                      "label": "Calzado",
+                      "href": "https://www.likemarket.es/category/calzado"
+                    },
+                    {
+                      "label": "Guantes",
+                      "href": "https://www.likemarket.es/category/guantes"
+                    },
+                    {
+                      "label": "Protectores",
+                      "href": "https://www.likemarket.es/category/protectores"
+                    },
+                    {
+                      "label": "Ropa laboral",
+                      "href": "https://www.likemarket.es/category/ropa-laboral"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Decoración y Menaje",
+              "href": "https://www.likemarket.es/category/menaje-hogar",
+              "children": [
+                {
+                  "label": "Cafeteras y teteras",
+                  "href": "https://www.likemarket.es/category/cafeteras-teteras"
+                },
+                {
+                  "label": "Decoración Hogar",
+                  "href": "https://www.likemarket.es/category/elementos-decorativos"
+                },
+                {
+                  "label": "Víspera de Todos los Santos",
+                  "href": "https://www.likemarket.es/category/halloween"
+                },
+                {
+                  "label": "Navidad",
+                  "href": "https://www.likemarket.es/category/navidad-1"
+                },
+                {
+                  "label": "Neveras y termos",
+                  "href": "https://www.likemarket.es/category/neveras-y-termos"
+                },
+                {
+                  "label": "Ollas y cacerolas",
+                  "href": "https://www.likemarket.es/category/ollas-cacerolas"
+                },
+                {
+                  "label": "Ordenación",
+                  "href": "https://www.likemarket.es/category/ordenacion"
+                },
+                {
+                  "label": "Perchas y Colgadores",
+                  "href": "https://www.likemarket.es/category/perchas-y-colgadores"
+                },
+                {
+                  "label": "Protectores infantiles",
+                  "href": "https://www.likemarket.es/category/protectores-infantiles"
+                },
+                {
+                  "label": "Sartenes y Asadoras",
+                  "href": "https://www.likemarket.es/category/sartenes-asadoras"
+                },
+                {
+                  "label": "Textil del hogar",
+                  "href": "https://www.likemarket.es/category/textil-del-hogar"
+                },
+                {
+                  "label": "Utensilios de cocina",
+                  "href": "https://www.likemarket.es/category/utensilios-de-cocina"
+                },
+                {
+                  "label": "Varios Accesorios de hogar",
+                  "href": "https://www.likemarket.es/category/varios-accesorios-hogar"
+                }
+              ]
+            },
+            {
+              "label": "Droguería",
+              "href": "https://www.likemarket.es/category/drogueria",
+              "children": [
+                {
+                  "label": "Ambientadores",
+                  "href": "https://www.likemarket.es/category/ambientadores-1"
+                },
+                {
+                  "label": "Detergentes y suavizantes",
+                  "href": "https://www.likemarket.es/category/detergentes-suavizantes"
+                },
+                {
+                  "label": "Limpieza general",
+                  "href": "https://www.likemarket.es/category/limpieza-general"
+                },
+                {
+                  "label": "Para el baño",
+                  "href": "https://www.likemarket.es/category/para-el-bano"
+                },
+                {
+                  "label": "Para la cocina",
+                  "href": "https://www.likemarket.es/category/para-la-cocina"
+                },
+                {
+                  "label": "Repelentes e insecticidas",
+                  "href": "https://www.likemarket.es/category/repelente-e-insecticidas"
+                }
+              ]
+            },
+            {
+              "label": "Electrodomésticos",
+              "href": "https://www.likemarket.es/category/electrodomesticos",
+              "children": [
+                {
+                  "label": "Aspiradoras",
+                  "href": "https://www.likemarket.es/category/aspiradoras"
+                },
+                {
+                  "label": "Batidoras",
+                  "href": "https://www.likemarket.es/category/batidoras"
+                },
+                {
+                  "label": "Cafeteras eléctricas",
+                  "href": "https://www.likemarket.es/category/cafeteras-electricas"
+                },
+                {
+                  "label": "Climatización",
+                  "href": "https://www.likemarket.es/category/climatizacion"
+                },
+                {
+                  "label": "Cuidado personal",
+                  "href": "https://www.likemarket.es/category/cuidado-personal"
+                },
+                {
+                  "label": "Exprimidores y picadoras",
+                  "href": "https://www.likemarket.es/category/exprimidores-y-picadoras"
+                },
+                {
+                  "label": "Limpieza",
+                  "href": "https://www.likemarket.es/category/limpieza-1"
+                },
+                {
+                  "label": "Planchado de ropa",
+                  "href": "https://www.likemarket.es/category/planchado-de-ropa"
+                },
+                {
+                  "label": "Relojes y despertadores",
+                  "href": "https://www.likemarket.es/category/electronica-2"
+                },
+                {
+                  "label": "Sandwicheras y tostadoras",
+                  "href": "https://www.likemarket.es/category/sandwicheras-y-tostadoras"
+                },
+                {
+                  "label": "Varios PAE",
+                  "href": "https://www.likemarket.es/category/varios-pae"
+                }
+              ]
+            },
+            {
+              "label": "Jardín y Exterior",
+              "href": "https://www.likemarket.es/category/jardineria",
+              "children": [
+                {
+                  "label": "Barbacoas",
+                  "href": "https://www.likemarket.es/category/barbacoas"
+                },
+                {
+                  "label": "Bombas de agua",
+                  "href": "https://www.likemarket.es/category/bombas-de-agua"
+                },
+                {
+                  "label": "Cámping",
+                  "href": "https://www.likemarket.es/category/camping"
+                },
+                {
+                  "label": "Control de plagas",
+                  "href": "https://www.likemarket.es/category/control-de-plagas"
+                },
+                {
+                  "label": "Herramientas poda",
+                  "href": "https://www.likemarket.es/category/herramientas-poda"
+                },
+                {
+                  "label": "Mobiliario de jardín",
+                  "href": "https://www.likemarket.es/category/mobiliario-de-jardin"
+                },
+                {
+                  "label": "Piscinas y químicos",
+                  "href": "https://www.likemarket.es/category/piscinas-y-quimicos"
+                },
+                {
+                  "label": "Riego",
+                  "href": "https://www.likemarket.es/category/riego"
+                },
+                {
+                  "label": "Varios Jardín y Exterior",
+                  "href": "https://www.likemarket.es/category/varios-Jardin-y-exterior"
+                }
+              ]
+            }
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "label": "Perfumes y Cosmética",
+    "href": "https://www.likemarket.es/category/perfumes-cosmetica",
+    "children": [
+      {
+        "label": "Alta cosmética",
+        "href": "https://www.likemarket.es/category/alta-cosmetica"
+      },
+      {
+        "label": "Manicura",
+        "href": "https://www.likemarket.es/category/manicura-unas"
+      },
+      {
+        "label": "Maquillaje Novedades",
+        "href": "https://www.likemarket.es/category/maquillaje"
+      },
+      {
+        "label": "Maquillajes Rostro",
+        "href": "https://www.likemarket.es/category/maquillajes-rostro",
+        "children": [
+          {
+            "label": "Accesorios maquillaje",
+            "href": "https://www.likemarket.es/category/accesorios-maquillaje"
+          },
+          {
+            "label": "Bases y polvos",
+            "href": "https://www.likemarket.es/category/bases-polvos"
+          },
+          {
+            "label": "Labios",
+            "href": "https://www.likemarket.es/category/labios"
+          },
+          {
+            "label": "Maquillaje de ojos",
+            "href": "https://www.likemarket.es/category/maquillaje-ojos"
+          }
+        ]
+      },
+      {
+        "label": "Perfumes Hombre",
+        "href": "https://www.likemarket.es/category/perfumes-hombre"
+      },
+      {
+        "label": "Perfumes Mujer",
+        "href": "https://www.likemarket.es/category/perfumes-mujer"
+      },
+      {
+        "label": "Conjuntos y paquetes",
+        "href": "https://www.likemarket.es/category/sets-y-packs"
+      }
+    ]
+  },
+  {
+    "label": "Cuidado e Higiene",
+    "href": "https://www.likemarket.es/category/cuidado-higiene-personal",
+    "children": [
+      {
+        "label": "Afeitado y Depilación",
+        "href": "https://www.likemarket.es/category/afeitado"
+      },
+      {
+        "label": "Cuidado cabello",
+        "href": "https://www.likemarket.es/category/cuidado-cabello"
+      },
+      {
+        "label": "Cuidado corporal",
+        "href": "https://www.likemarket.es/category/cuidado-corporal"
+      },
+      {
+        "label": "Cuidado facial",
+        "href": "https://www.likemarket.es/category/cuidado-facial"
+      },
+      {
+        "label": "Desodorantes",
+        "href": "https://www.likemarket.es/category/desodorantes"
+      },
+      {
+        "label": "Higiene bucal",
+        "href": "https://www.likemarket.es/category/higiene-bucal"
+      },
+      {
+        "label": "Higienizantes y Mascarillas",
+        "href": "https://www.likemarket.es/category/higienizantes"
+      },
+      {
+        "label": "Íntimo femenino",
+        "href": "https://www.likemarket.es/category/intimo-femenino"
+      },
+      {
+        "label": "Protección solar",
+        "href": "https://www.likemarket.es/category/proteccion-solar"
+      }
+    ]
+  },
+  {
+    "label": "Parafarmacia",
+    "href": "https://www.likemarket.es/category/parafarmacia",
+    "children": [
+      {
+        "label": "Cosmética e Higiene",
+        "href": "https://www.likemarket.es/category/cuidado-e-higiene",
+        "children": [
+          {
+            "label": "Cuidado bucodental",
+            "href": "https://www.likemarket.es/category/cuidado-bucodental"
+          },
+          {
+            "label": "Cuidado capilar",
+            "href": "https://www.likemarket.es/category/cuidado-capilar"
+          },
+          {
+            "label": "Cuidado corporal",
+            "href": "https://www.likemarket.es/category/cuidado-corporal-1",
+            "children": [
+              {
+                "label": "Anticelulticos y reafirmantes",
+                "href": "https://www.likemarket.es/category/anticelulticos-reafirmantes"
+              },
+              {
+                "label": "Exfoliantes",
+                "href": "https://www.likemarket.es/category/exfoliantes"
+              },
+              {
+                "label": "Hidratantes",
+                "href": "https://www.likemarket.es/category/hidratantes"
+              },
+              {
+                "label": "Higiene Personal",
+                "href": "https://www.likemarket.es/category/higiene-personal"
+              },
+              {
+                "label": "Lociones",
+                "href": "https://www.likemarket.es/category/lociones"
+              },
+              {
+                "label": "Tratamientos Dermatológicos",
+                "href": "https://www.likemarket.es/category/tratamientos-dermatologicos"
+              }
+            ]
+          },
+          {
+            "label": "Cuidado de manos y pies",
+            "href": "https://www.likemarket.es/category/cuidado-de-manos-y-pies"
+          },
+          {
+            "label": "Cuidado facial",
+            "href": "https://www.likemarket.es/category/cuidado-facial-1"
+          },
+          {
+            "label": "Cuidado íntimo",
+            "href": "https://www.likemarket.es/category/cuidado-intimo"
+          },
+          {
+            "label": "Cuidado nasal y auditivo",
+            "href": "https://www.likemarket.es/category/cuidado-nasal-y-auditivo"
+          },
+          {
+            "label": "Depilación y Afeitado",
+            "href": "https://www.likemarket.es/category/higiene-masculina"
+          },
+          {
+            "label": "Productos solares",
+            "href": "https://www.likemarket.es/category/productos-solares"
+          },
+          {
+            "label": "Repelente Insectos",
+            "href": "https://www.likemarket.es/category/repelente-insectos"
+          }
+        ]
+      },
+      {
+        "label": "Destacados",
+        "href": "https://www.likemarket.es/category/destacados-parafarmacia"
+      },
+      {
+        "label": "Facial",
+        "href": "https://www.likemarket.es/category/facial",
+        "children": [
+          {
+            "label": "Antiedad",
+            "href": "https://www.likemarket.es/category/antiedad"
+          },
+          {
+            "label": "Labios y cuidados",
+            "href": "https://www.likemarket.es/category/labios-cuidados"
+          },
+          {
+            "label": "Limpieza facial",
+            "href": "https://www.likemarket.es/category/limpieza-facial"
+          },
+          {"label": "Suero", "href": "https://www.likemarket.es/category/serum"}
+        ]
+      },
+      {
+        "label": "Fitoterapia y Naturoterapia",
+        "href": "https://www.likemarket.es/category/fitoterapia-y-naturoterapia",
+        "children": [
+          {
+            "label": "Fitoterapia",
+            "href": "https://www.likemarket.es/category/fitoterapia"
+          },
+          {
+            "label": "Terapias naturales",
+            "href": "https://www.likemarket.es/category/terapias-naturales"
+          }
+        ]
+      },
+      {
+        "label": "Infantil",
+        "href": "https://www.likemarket.es/category/infantil",
+        "children": [
+          {
+            "label": "Colonias y perfumes",
+            "href": "https://www.likemarket.es/category/colonias-y-perfumes"
+          },
+          {
+            "label": "Cosmética e higiene infantil",
+            "href": "https://www.likemarket.es/category/cosmetica-e-higiene-infantil"
+          },
+          {
+            "label": "Juguetes",
+            "href": "https://www.likemarket.es/category/juguetes"
+          },
+          {
+            "label": "Seguridad y vigilancia",
+            "href": "https://www.likemarket.es/category/seguridad-y-vigilancia"
+          }
+        ]
+      },
+      {
+        "label": "Maternidad y Lactancia",
+        "href": "https://www.likemarket.es/category/maternidad-y-lactancia",
+        "children": [
+          {
+            "label": "Alimentación infantil",
+            "href": "https://www.likemarket.es/category/alimentacion-infantil"
+          },
+          {
+            "label": "Chupetes, biberones y tetinas",
+            "href": "https://www.likemarket.es/category/chupetes-biberones-y-tetinas"
+          },
+          {
+            "label": "Embarazo y lactancia",
+            "href": "https://www.likemarket.es/category/embarazo-y-lactancia"
+          },
+          {
+            "label": "Productos infantiles",
+            "href": "https://www.likemarket.es/category/productos-infantiles"
+          }
+        ]
+      },
+      {
+        "label": "Nutrición y dietética",
+        "href": "https://www.likemarket.es/category/nutricion-y-dietetica",
+        "children": [
+          {
+            "label": "Alimentación",
+            "href": "https://www.likemarket.es/category/alimentacion-2"
+          },
+          {
+            "label": "Complementos alimenticios",
+            "href": "https://www.likemarket.es/category/complementos-alimenticios",
+            "children": [
+              {
+                "label": "Bienestar general y digestivo",
+                "href": "https://www.likemarket.es/category/reguladores-sistemicos"
+              },
+              {
+                "label": "Huesos y Articulaciones",
+                "href": "https://www.likemarket.es/category/huesos-y-articulaciones"
+              },
+              {
+                "label": "Jalea Real",
+                "href": "https://www.likemarket.es/category/jalea-real-1"
+              },
+              {
+                "label": "Multivitamínicos y multiminerales",
+                "href": "https://www.likemarket.es/category/multivitaminicos-y-multiminerales"
+              },
+              {
+                "label": "Otros Complementos Alimenticios",
+                "href": "https://www.likemarket.es/category/otros-complementos-alimenticios"
+              },
+              {
+                "label": "Para dormir",
+                "href": "https://www.likemarket.es/category/para-dormir"
+              },
+              {
+                "label": "Para el cabello, piel y uñas",
+                "href": "https://www.likemarket.es/category/para-el-cabello-y-las-unas"
+              },
+              {
+                "label": "Probióticos",
+                "href": "https://www.likemarket.es/category/probioticos-1"
+              },
+              {
+                "label": "Sistema Hormonal",
+                "href": "https://www.likemarket.es/category/sistema-hormonal"
+              },
+              {
+                "label": "Sistema Inmunológico",
+                "href": "https://www.likemarket.es/category/sistema-inmunologico"
+              },
+              {
+                "label": "Sistema Urinario",
+                "href": "https://www.likemarket.es/category/sistema-urinario"
+              }
+            ]
+          },
+          {
+            "label": "Terapia dietética",
+            "href": "https://www.likemarket.es/category/dietoterapicos"
+          }
+        ]
+      },
+      {
+        "label": "Óptica y Audición",
+        "href": "https://www.likemarket.es/category/optica-y-audicion",
+        "children": [
+          {
+            "label": "Audición",
+            "href": "https://www.likemarket.es/category/audicion"
+          },
+          {
+            "label": "Óptica",
+            "href": "https://www.likemarket.es/category/soluciones-oculares"
+          }
+        ]
+      },
+      {
+        "label": "Ortopedia",
+        "href": "https://www.likemarket.es/category/ortopedia",
+        "children": [
+          {
+            "label": "Ayuda a la deambulación",
+            "href": "https://www.likemarket.es/category/ayuda-a-la-deambulacion"
+          },
+          {
+            "label": "Calzado y accesorios",
+            "href": "https://www.likemarket.es/category/calzado-y-accesorios"
+          },
+          {
+            "label": "Corsetería y lencería",
+            "href": "https://www.likemarket.es/category/corseteria-y-lenceria"
+          },
+          {
+            "label": "Lubricantes para articulaciones",
+            "href": "https://www.likemarket.es/category/lubricantes-para-articulaciones"
+          },
+          {
+            "label": "Ortesis",
+            "href": "https://www.likemarket.es/category/ortesis"
+          },
+          {
+            "label": "Ortopedia para los pies",
+            "href": "https://www.likemarket.es/category/ortopedia-para-los-pies"
+          },
+          {
+            "label": "Productos elásticos y de tracción",
+            "href": "https://www.likemarket.es/category/productos-elasticos-y-de-traccion"
+          }
+        ]
+      },
+      {
+        "label": "Productos sanitarios",
+        "href": "https://www.likemarket.es/category/productos-sanitarios",
+        "children": [
+          {
+            "label": "Antisépticos y desinfectantes",
+            "href": "https://www.likemarket.es/category/antisepticos-y-desinfectantes"
+          },
+          {
+            "label": "Botiquín",
+            "href": "https://www.likemarket.es/category/botiquin"
+          },
+          {
+            "label": "Diagnóstico y exploración",
+            "href": "https://www.likemarket.es/category/diagnostico-y-exploracion"
+          },
+          {
+            "label": "Ostomía, cánulas y sondas",
+            "href": "https://www.likemarket.es/category/ostomia-canulas-y-sondas"
+          },
+          {
+            "label": "Otros productos sanitarios",
+            "href": "https://www.likemarket.es/category/otros-productos-sanitarios"
+          },
+          {
+            "label": "Productos genitourinarios",
+            "href": "https://www.likemarket.es/category/productos-genitourinarios"
+          },
+          {
+            "label": "Respiración y aromaterapia",
+            "href": "https://www.likemarket.es/category/respiracion-y-aromaterapia"
+          },
+          {
+            "label": "Sexualidad",
+            "href": "https://www.likemarket.es/category/sexualidad"
+          }
+        ]
+      },
+      {
+        "label": "Veterinaria",
+        "href": "https://www.likemarket.es/category/veterinaria",
+        "children": [
+          {
+            "label": "Antiparasitarios externos",
+            "href": "https://www.likemarket.es/category/antiparasitarios-externos"
+          },
+          {
+            "label": "Higiene veterinaria",
+            "href": "https://www.likemarket.es/category/higiene-veterinaria"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Automóvil",
+    "href": "https://www.likemarket.es/category/automovil",
+    "children": [
+      {
+        "label": "Destacados",
+        "href": "https://www.likemarket.es/category/destacados-automovil"
+      },
+      {
+        "label": "Exterior",
+        "href": "https://www.likemarket.es/category/exterior",
+        "children": [
+          {
+            "label": "Escapadas",
+            "href": "https://www.likemarket.es/category/escapes"
+          },
+          {
+            "label": "Escobillas",
+            "href": "https://www.likemarket.es/category/escobillas"
+          },
+          {
+            "label": "Fundas exteriores",
+            "href": "https://www.likemarket.es/category/fundas-exteriores"
+          },
+          {
+            "label": "Láminas y adhesivos",
+            "href": "https://www.likemarket.es/category/laminas-y-adhesivos"
+          },
+          {
+            "label": "Otros",
+            "href": "https://www.likemarket.es/category/otros-1"
+          },
+          {
+            "label": "Afinación",
+            "href": "https://www.likemarket.es/category/tuning"
+          }
+        ]
+      },
+      {
+        "label": "Herramientas y seguridad",
+        "href": "https://www.likemarket.es/category/herramientas-y-seguridad",
+        "children": [
+          {
+            "label": "Herramientas",
+            "href": "https://www.likemarket.es/category/herramientas"
+          },
+          {
+            "label": "Otros",
+            "href": "https://www.likemarket.es/category/otros-2"
+          },
+          {
+            "label": "Seguridad y emergencias",
+            "href": "https://www.likemarket.es/category/seguridad-y-emergencias"
+          }
+        ]
+      },
+      {
+        "label": "Iluminación",
+        "href": "https://www.likemarket.es/category/iluminacion"
+      },
+      {
+        "label": "Interior",
+        "href": "https://www.likemarket.es/category/interior",
+        "children": [
+          {
+            "label": "Alfombrillas",
+            "href": "https://www.likemarket.es/category/alfombrillas"
+          },
+          {
+            "label": "Confort",
+            "href": "https://www.likemarket.es/category/confort"
+          },
+          {
+            "label": "Decoración",
+            "href": "https://www.likemarket.es/category/decoracion"
+          },
+          {
+            "label": "Niños y mascotas",
+            "href": "https://www.likemarket.es/category/ninos-y-mascotas"
+          },
+          {
+            "label": "Organizadores",
+            "href": "https://www.likemarket.es/category/organizadores"
+          },
+          {
+            "label": "Parasoles",
+            "href": "https://www.likemarket.es/category/parasoles"
+          },
+          {
+            "label": "Pomos y empuñaduras",
+            "href": "https://www.likemarket.es/category/pomos-y-empunaduras"
+          },
+          {
+            "label": "Todo para asientos",
+            "href": "https://www.likemarket.es/category/todo-para-asientos"
+          }
+        ]
+      },
+      {
+        "label": "Limpieza del automóvil",
+        "href": "https://www.likemarket.es/category/limpieza-automovil",
+        "children": [
+          {
+            "label": "Ambientadores",
+            "href": "https://www.likemarket.es/category/ambientadores"
+          },
+          {
+            "label": "Esponjas y gamuzas",
+            "href": "https://www.likemarket.es/category/esponjas-y-gamuzas"
+          },
+          {
+            "label": "Limpieza exterior",
+            "href": "https://www.likemarket.es/category/limpieza-exterior"
+          },
+          {
+            "label": "Limpieza interior",
+            "href": "https://www.likemarket.es/category/limpieza-interior"
+          },
+          {
+            "label": "Limpieza multiusos",
+            "href": "https://www.likemarket.es/category/limpieza-multiusos"
+          }
+        ]
+      },
+      {
+        "label": "Todo ruedas",
+        "href": "https://www.likemarket.es/category/todo-ruedas",
+        "children": [
+          {
+            "label": "Accesorios para ruedas",
+            "href": "https://www.likemarket.es/category/accesorios-para-ruedas"
+          }
+        ]
+      },
+      {
+        "label": "Viaje y garaje",
+        "href": "https://www.likemarket.es/category/viaje-y-garaje",
+        "children": [
+          {
+            "label": "Electrónica",
+            "href": "https://www.likemarket.es/category/electronica"
+          },
+          {
+            "label": "Garaje y protectores",
+            "href": "https://www.likemarket.es/category/garaje-y-protectores"
+          },
+          {
+            "label": "Puertas",
+            "href": "https://www.likemarket.es/category/portaje"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Nutrición Sport",
+    "href": "https://www.likemarket.es/category/nutricion-sport",
+    "children": [
+      {
+        "label": "Activadores metabólicos",
+        "href": "https://www.likemarket.es/category/activadores-metabolicos"
+      },
+      {
+        "label": "Alimentación Sport",
+        "href": "https://www.likemarket.es/category/alimentacion-1"
+      },
+      {
+        "label": "Aminoácidos",
+        "href": "https://www.likemarket.es/category/aminoacidos"
+      },
+      {
+        "label": "Anticelulíticos",
+        "href": "https://www.likemarket.es/category/anticeluliticos"
+      },
+      {
+        "label": "Competición",
+        "href": "https://www.likemarket.es/category/competicion"
+      },
+      {
+        "label": "Control de peso",
+        "href": "https://www.likemarket.es/category/control-de-peso"
+      },
+      {
+        "label": "crossfit",
+        "href": "https://www.likemarket.es/category/crossfit"
+      },
+      {
+        "label": "Pureza extrema",
+        "href": "https://www.likemarket.es/category/extrem-purity"
+      },
+      {
+        "label": "Línea verde",
+        "href": "https://www.likemarket.es/category/linea-verde"
+      },
+      {"label": "Óptimo", "href": "https://www.likemarket.es/category/optimal"},
+      {
+        "label": "De primera calidad",
+        "href": "https://www.likemarket.es/category/premium"
+      },
+      {
+        "label": "Resistencia a la recuperación",
+        "href": "https://www.likemarket.es/category/recovery-endurance"
+      }
+    ]
+  },
+  {
+    "label": "Dietética Natural",
+    "href": "https://www.likemarket.es/category/dietetica-natural",
+    "children": [
+      [
+        [
+          [
+            {
+              "label": "Alimentación natural",
+              "href": "https://www.likemarket.es/category/alimentacion-natural"
+            },
+            {
+              "label": "Alimentos ecológicos",
+              "href": "https://www.likemarket.es/category/alimentos-ecologicos"
+            },
+            {
+              "label": "aromax",
+              "href": "https://www.likemarket.es/category/aromax"
+            },
+            {
+              "label": "Caramelos",
+              "href": "https://www.likemarket.es/category/caramelos"
+            },
+            {
+              "label": "Complementos dietéticos",
+              "href": "https://www.likemarket.es/category/complementos-dieteticos"
+            },
+            {
+              "label": "Control de peso",
+              "href": "https://www.likemarket.es/category/control-de-peso-1"
+            },
+            {
+              "label": "Cosmética natural",
+              "href": "https://www.likemarket.es/category/cosmetica-natural"
+            },
+            {
+              "label": "desintoxicación",
+              "href": "https://www.likemarket.es/category/detox"
+            },
+            {
+              "label": "Elixires florales",
+              "href": "https://www.likemarket.es/category/elixires-florales"
+            },
+            {
+              "label": "Isoflavonas",
+              "href": "https://www.likemarket.es/category/isoflavonas"
+            },
+            {
+              "label": "Jalea real",
+              "href": "https://www.likemarket.es/category/jalea-real"
+            },
+            {
+              "label": "Jarabes ecológicos",
+              "href": "https://www.likemarket.es/category/jarabes-ecologicos"
+            },
+            {
+              "label": "Lecitina",
+              "href": "https://www.likemarket.es/category/lecitinas"
+            },
+            {
+              "label": "Levadura de cerveza",
+              "href": "https://www.likemarket.es/category/levadura-de-cerveza"
+            },
+            {
+              "label": "Oligoelementos",
+              "href": "https://www.likemarket.es/category/oligoelementos"
+            },
+            {
+              "label": "Plantas medicinales",
+              "href": "https://www.likemarket.es/category/plantas-medicinales"
+            },
+            {
+              "label": "Plantas para infusión",
+              "href": "https://www.likemarket.es/category/plantas-para-infusion"
+            },
+            {
+              "label": "plantado",
+              "href": "https://www.likemarket.es/category/plantis"
+            },
+            {
+              "label": "Probióticos",
+              "href": "https://www.likemarket.es/category/probioticos"
+            },
+            {
+              "label": "propolina",
+              "href": "https://www.likemarket.es/category/propolina"
+            },
+            {
+              "label": "Vitaminas y aminoácidos",
+              "href": "https://www.likemarket.es/category/vitaminas-y-aminoacidos"
+            },
+            {
+              "label": "Zumos",
+              "href": "https://www.likemarket.es/category/zumos"
+            }
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "label": "Tecnología",
+    "href": "https://www.likemarket.es/category/tecnologia",
+    "children": [
+      {
+        "label": "Accesorios",
+        "href": "https://www.likemarket.es/category/accesorios-tecnologia",
+        "children": [
+          {
+            "label": "Accesorios cámaras",
+            "href": "https://www.likemarket.es/category/accesorios-camaras"
+          },
+          {
+            "label": "Accesorios Coches",
+            "href": "https://www.likemarket.es/category/accesorios-coches"
+          },
+          {
+            "label": "Accesorios tablets",
+            "href": "https://www.likemarket.es/category/accesorios-tablets"
+          },
+          {
+            "label": "Accesorios teléfonos",
+            "href": "https://www.likemarket.es/category/accesorios-telefonos"
+          },
+          {
+            "label": "cables",
+            "href": "https://www.likemarket.es/category/cables"
+          },
+          {
+            "label": "Complementos para televisión",
+            "href": "https://www.likemarket.es/category/complementos-para-television"
+          },
+          {
+            "label": "Consumibles",
+            "href": "https://www.likemarket.es/category/consumibles"
+          },
+          {
+            "label": "Memorias",
+            "href": "https://www.likemarket.es/category/memorias"
+          },
+          {
+            "label": "Otros",
+            "href": "https://www.likemarket.es/category/tecnologia-accesorios-otros"
+          },
+          {
+            "label": "Protectores y Fundas",
+            "href": "https://www.likemarket.es/category/fundas"
+          }
+        ]
+      },
+      {
+        "label": "Apple Tienda",
+        "href": "https://www.likemarket.es/category/apple"
+      },
+      {
+        "label": "Audio y Vídeo",
+        "href": "https://www.likemarket.es/category/audio"
+      },
+      {
+        "label": "Auriculares",
+        "href": "https://www.likemarket.es/category/auriculares"
+      },
+      {
+        "label": "Cámaras",
+        "href": "https://www.likemarket.es/category/camaras",
+        "children": [
+          {
+            "label": "Foto Digital",
+            "href": "https://www.likemarket.es/category/foto-digital"
+          },
+          {
+            "label": "Videocámaras",
+            "href": "https://www.likemarket.es/category/videocamaras"
+          }
+        ]
+      },
+      {
+        "label": "Consolas",
+        "href": "https://www.likemarket.es/category/consolas"
+      },
+      {
+        "label": "Deporte y Ocio",
+        "href": "https://www.likemarket.es/category/deporte"
+      },
+      {
+        "label": "Informática",
+        "href": "https://www.likemarket.es/category/informatica",
+        "children": [
+          {
+            "label": "Componentes",
+            "href": "https://www.likemarket.es/category/componentes",
+            "children": [
+              {
+                "label": "Almacenamiento Interno",
+                "href": "https://www.likemarket.es/category/almacenamiento-interno"
+              },
+              {
+                "label": "Cajas y Fuentes de Alimentación",
+                "href": "https://www.likemarket.es/category/cajas-fuentes"
+              },
+              {
+                "label": "Memorias RAM",
+                "href": "https://www.likemarket.es/category/memorias-ram"
+              },
+              {
+                "label": "Microprocesadores",
+                "href": "https://www.likemarket.es/category/microprocesadores"
+              },
+              {
+                "label": "Placas Base",
+                "href": "https://www.likemarket.es/category/placas-base"
+              },
+              {
+                "label": "Tarjetas gráficas",
+                "href": "https://www.likemarket.es/category/tarjetas-graficas"
+              }
+            ]
+          },
+          {
+            "label": "Consumibles impresión",
+            "href": "https://www.likemarket.es/category/consumibles-impresion"
+          },
+          {
+            "label": "Juego de azar",
+            "href": "https://www.likemarket.es/category/gaming"
+          },
+          {
+            "label": "PC y TPV",
+            "href": "https://www.likemarket.es/category/pc-y-tpv",
+            "children": [
+              {
+                "label": "miniordenador",
+                "href": "https://www.likemarket.es/category/mini-pc"
+              },
+              {
+                "label": "PC de sobremesa",
+                "href": "https://www.likemarket.es/category/pc-de-sobremesa"
+              },
+              {
+                "label": "Semiensamblados",
+                "href": "https://www.likemarket.es/category/semiensamblados"
+              },
+              {
+                "label": "Todo en uno",
+                "href": "https://www.likemarket.es/category/todo-en-uno"
+              },
+              {"label": "TPV", "href": "https://www.likemarket.es/category/tpv"}
+            ]
+          },
+          {
+            "label": "Periféricos y accesorios",
+            "href": "https://www.likemarket.es/category/perifericos-y-accesorios",
+            "children": [
+              {
+                "label": "Almacenamiento externo",
+                "href": "https://www.likemarket.es/category/almacenamiento-externo"
+              },
+              {
+                "label": "Complementos Portátiles",
+                "href": "https://www.likemarket.es/category/accesorios-y-perifericos-para-portatiles"
+              },
+              {
+                "label": "Impresoras",
+                "href": "https://www.likemarket.es/category/impresoras"
+              },
+              {
+                "label": "Monitores",
+                "href": "https://www.likemarket.es/category/monitores"
+              },
+              {
+                "label": "Multifunción",
+                "href": "https://www.likemarket.es/category/multifuncion"
+              },
+              {
+                "label": "HASTA",
+                "href": "https://www.likemarket.es/category/sai"
+              },
+              {
+                "label": "Teclados y Ratones",
+                "href": "https://www.likemarket.es/category/teclados-ratones"
+              }
+            ]
+          },
+          {
+            "label": "Portátiles",
+            "href": "https://www.likemarket.es/category/portatiles"
+          },
+          {
+            "label": "Redes",
+            "href": "https://www.likemarket.es/category/redes",
+            "children": [
+              {
+                "label": "Adaptadores red",
+                "href": "https://www.likemarket.es/category/adaptadores-red"
+              },
+              {
+                "label": "Enrutadores",
+                "href": "https://www.likemarket.es/category/routers"
+              },
+              {
+                "label": "Switchs y puntos de acceso",
+                "href": "https://www.likemarket.es/category/switch-punto-acceso"
+              }
+            ]
+          },
+          {
+            "label": "Software",
+            "href": "https://www.likemarket.es/category/software"
+          }
+        ]
+      },
+      {
+        "label": "Movilidad Urbana",
+        "href": "https://www.likemarket.es/category/movilidad-urbana"
+      },
+      {
+        "label": "Casa inteligente",
+        "href": "https://www.likemarket.es/category/smarthome"
+      },
+      {
+        "label": "Reloj inteligente",
+        "href": "https://www.likemarket.es/category/smartwatch"
+      },
+      {
+        "label": "tabletas",
+        "href": "https://www.likemarket.es/category/tablets"
+      },
+      {
+        "label": "Telefonía",
+        "href": "https://www.likemarket.es/category/telefonia",
+        "children": [
+          {
+            "label": "Telefonía Móvil",
+            "href": "https://www.likemarket.es/category/smartphones"
+          },
+          {
+            "label": "Teléfonos Fijos",
+            "href": "https://www.likemarket.es/category/telefonos-fijos"
+          }
+        ]
+      },
+      {
+        "label": "Televisores",
+        "href": "https://www.likemarket.es/category/televisores"
+      }
+    ]
+  },
+  {
+    "label": "Más Categorías",
+    "href": "https://www.likemarket.es/category/mas-categorias",
+    "children": [
+      {
+        "label": "Deportes y juegos",
+        "href": "https://www.likemarket.es/category/deportes-y-juegos"
+      },
+      {
+        "label": "Mascotas",
+        "href": "https://www.likemarket.es/category/mascotas-1294"
+      },
+      {
+        "label": "Material Escolar y Oficina",
+        "href": "https://www.likemarket.es/category/material-escolar-y-oficina"
+      }
+    ]
+  }
+]
