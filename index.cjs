@@ -12,8 +12,6 @@ const valid = mainNav.childNodes.filter((child) => {
 
 function getChilds(node) {
   return node.map((child) => {
-    console.log({tagname: child.tagName});
-
     const firstChild = child?.childNodes?.[0];
     const secondChild = child?.childNodes?.[1];
     const firstChildTagName = firstChild?.tagName;
@@ -25,14 +23,12 @@ function getChilds(node) {
         href: firstChild.attributes.href,
       };
     } else if (firstChildTagName === "A" && secondChildTagName === "UL") {
-      console.log(child.attributes);
       return {
         label: firstChild.text,
         href: firstChild.attributes.href,
         children: getChilds(secondChild.childNodes).flat(),
       };
     } else if (child.attributes?.class === "row") {
-      console.log("aca");
       return getChilds(child.childNodes);
     } else {
       return getChilds(child.childNodes)[0];
